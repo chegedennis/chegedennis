@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chegedennis
 - 👀 I’m interested in everything tech
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me ...
 
 <!---
